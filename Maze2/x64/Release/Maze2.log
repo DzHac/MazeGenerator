@@ -1,0 +1,6 @@
+﻿  Maze2.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 665 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Maze2.vcxproj -> C:\Users\user\Documents\BTSP\YGP\YGP-Maze\MazeGenerator\Maze2\x64\Release\Maze2.exe
